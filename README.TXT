@@ -9,5 +9,5 @@ zumindest die folgenden Angaben umfassen:
 PROJEKTBEZEICHNUNG: Ampel
 PROJEKTZWECK: Ampelzyklen nachstellen
 VERSION oder DATUM: Version 5
-WIE IST DAS PROJEKT ZU STARTEN: Neues Objekt Ampelsteuerung erstellen, Methode neuesZeichenfenster(), MMethode allesZeichnen()
+WIE IST DAS PROJEKT ZU STARTEN: Neues Objekt Ampelsteuerung erstellen, Methode neuesZeichenfenster(), Methode allesZeichnen()
 AUTOR(EN):Nikolas Edinger
