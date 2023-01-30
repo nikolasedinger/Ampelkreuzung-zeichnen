@@ -6,9 +6,8 @@ alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar
 zumindest die folgenden Angaben umfassen:
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
-VERSION oder DATUM:
-WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
-BENUTZERHINWEISE:
+PROJEKTBEZEICHNUNG: Ampel
+PROJEKTZWECK: Ampelzyklen nachstellen
+VERSION oder DATUM: Version 5
+WIE IST DAS PROJEKT ZU STARTEN: Neues Objekt Ampelsteuerung erstellen, methode neuesZeichenfenster(), methode allesZeichnen()
+AUTOR(EN):Nikolas Edinger
