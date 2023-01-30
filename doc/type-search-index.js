@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Ampel"},{"p":"<Unnamed>","l":"Ampelsteuerung"},{"p":"<Unnamed>","l":"Kreis"},{"p":"<Unnamed>","l":"Rechteck"},{"p":"<Unnamed>","l":"Zeichenfenster"}]

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ampelsteuerung
+comment1.params=
+comment1.target=Ampelsteuerung()
+comment2.params=
+comment2.target=void\ neuesZeichenfenster()
+comment3.params=
+comment3.target=void\ allesZeichnen()
+comment4.params=
+comment4.target=void\ ausSchalten()
+comment5.params=
+comment5.target=void\ AmpelSchalten()
+comment6.params=
+comment6.target=void\ ampelZyklus()
+comment7.params=
+comment7.target=void\ f\u00FCnfZyklen()
+comment8.params=
+comment8.target=void\ blinken()
+comment9.params=
+comment9.target=void\ blinkModus()
+numComments=10

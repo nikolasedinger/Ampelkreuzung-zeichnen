@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Kreis
+comment1.params=zf\ pX\ pY\ pRadius\ pFarbe
+comment1.target=Kreis(Zeichenfenster,\ int,\ int,\ int,\ java.awt.Color)
+comment2.params=
+comment2.target=void\ zeichnen()
+comment3.params=
+comment3.target=void\ loeschen()
+comment4.params=pFarbe
+comment4.target=void\ setzeFarbe(java.awt.Color)
+comment5.params=pX\ pY
+comment5.target=void\ setzePosition(int,\ int)
+comment6.params=
+comment6.target=int\ liesXPosition()
+comment7.params=
+comment7.target=int\ liesYPosition()
+numComments=8

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Ampel
+comment1.params=pZf\ pX\ pY\ pBreite
+comment1.target=Ampel(Zeichenfenster,\ int,\ int,\ int)
+comment10.params=
+comment10.target=boolean\ fehlfunktion()
+comment11.params=fehlfunktion
+comment11.target=void\ blinken(boolean)
+comment12.params=
+comment12.target=void\ paint()
+comment2.params=
+comment2.target=void\ zeichnen1()
+comment3.params=
+comment3.target=void\ zeichnen2()
+comment4.params=
+comment4.target=void\ ausschalten()
+comment5.params=
+comment5.target=void\ gelbSchalten()
+comment6.params=
+comment6.target=void\ Licht1Schalten()
+comment7.params=
+comment7.target=void\ Licht2Schalten()
+comment8.params=
+comment8.target=void\ Licht3Schalten()
+comment9.params=
+comment9.target=void\ addIndex()
+numComments=13

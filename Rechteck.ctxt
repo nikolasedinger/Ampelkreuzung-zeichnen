@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Rechteck
+comment1.params=Zf\ pXPos\ pYPos\ pBreite\ pHoehe\ pFarbe
+comment1.target=Rechteck(Zeichenfenster,\ int,\ int,\ int,\ int,\ java.awt.Color)
+comment1.text=Konstruktor
+comment2.params=
+comment2.target=void\ zeichnen()
+comment2.text=zeichnet\ die\ Figur
+comment3.params=
+comment3.target=void\ loeschen()
+comment3.text=\u00FCbermalt\ die\ Figur\ mit\ wei\u00DFer\ Farbe
+comment4.params=pFarbe
+comment4.target=void\ setzeFarbe(java.awt.Color)
+comment4.text=Farbe\ ...
+comment5.params=pXPos\ pYPos
+comment5.target=void\ setzePosition(int,\ int)
+comment5.text=Bezugspunkt\:\ Ecke\ unten\ links
+comment6.params=
+comment6.target=int\ liesXPosition()
+comment6.text=liefert\ die\ x-Koordinate\ der\ Figur
+comment7.params=
+comment7.target=int\ liesYPosition()
+comment7.text=liefert\ die\ y-Koordinate\ der\ Figur
+numComments=8
